@@ -1,6 +1,6 @@
 import { createRequire } from "module";
-import decodeOpaqueIdForNamespace from "@reactioncommerce/api-utils/decodeOpaqueIdForNamespace.js";
-import encodeOpaqueId from "@reactioncommerce/api-utils/encodeOpaqueId.js";
+import decodeOpaqueIdForNamespace from "@brian-demo-050822/api-utils/decodeOpaqueIdForNamespace.js";
+import encodeOpaqueId from "@brian-demo-050822/api-utils/encodeOpaqueId.js";
 
 const require = createRequire(import.meta.url);
 

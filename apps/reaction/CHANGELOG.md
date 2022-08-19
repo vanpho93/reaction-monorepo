@@ -24,14 +24,14 @@
 
 ### Bug Fixes
 
-* upgrade @reactioncommerce/api-plugin-catalogs from 1.1.0 to 1.1.2 ([c379426](https://github.com/reactioncommerce/reaction/commit/c37942647f39459d5082973af75c26a4e42abfb4))
+* upgrade @brian-demo-050822/api-plugin-catalogs from 1.1.0 to 1.1.2 ([c379426](https://github.com/reactioncommerce/reaction/commit/c37942647f39459d5082973af75c26a4e42abfb4))
 
 ## [4.1.5](https://github.com/reactioncommerce/reaction/compare/v4.1.4...v4.1.5) (2021-11-22)
 
 
 ### Bug Fixes
 
-* upgrade @reactioncommerce/api-plugin-address-validation-test from 1.0.1 to 1.0.3 ([f4208a3](https://github.com/reactioncommerce/reaction/commit/f4208a32e9795d756c5b1bc077e2b05a80472025))
+* upgrade @brian-demo-050822/api-plugin-address-validation-test from 1.0.1 to 1.0.3 ([f4208a3](https://github.com/reactioncommerce/reaction/commit/f4208a32e9795d756c5b1bc077e2b05a80472025))
 
 ## [4.1.4](https://github.com/reactioncommerce/reaction/compare/v4.1.3...v4.1.4) (2021-10-26)
 
@@ -79,7 +79,7 @@
 
 ### Bug Fixes
 
-* upgrade @reactioncommerce/api-plugin-carts from 1.2.2 to 1.2.4 ([e0a0ea7](https://github.com/reactioncommerce/reaction/commit/e0a0ea76f334d71ad16f9dcaaaea50f576dbea3e))
+* upgrade @brian-demo-050822/api-plugin-carts from 1.2.2 to 1.2.4 ([e0a0ea7](https://github.com/reactioncommerce/reaction/commit/e0a0ea76f334d71ad16f9dcaaaea50f576dbea3e))
 
 ## [4.0.3](https://github.com/reactioncommerce/reaction/compare/v4.0.2...v4.0.3) (2021-09-23)
 
@@ -100,7 +100,7 @@
 
 ### Bug Fixes
 
-* upgrade @reactioncommerce/api-plugin-orders from 1.4.0 to 1.4.2 ([b3a8fca](https://github.com/reactioncommerce/reaction/commit/b3a8fcab89f581a3fb7e71d74c425f72349931b3))
+* upgrade @brian-demo-050822/api-plugin-orders from 1.4.0 to 1.4.2 ([b3a8fca](https://github.com/reactioncommerce/reaction/commit/b3a8fcab89f581a3fb7e71d74c425f72349931b3))
 
 # [4.0.0](https://github.com/reactioncommerce/reaction/compare/v3.13.4...v4.0.0) (2021-08-25)
 
@@ -127,7 +127,7 @@ Signed-off-by: Akarshit Wal <akarshitwal@gmail.com>
 
 ### Bug Fixes
 
-* upgrade @reactioncommerce/api-plugin-i18n from 1.0.3 to 1.0.4 ([3d5a0e0](https://github.com/reactioncommerce/reaction/commit/3d5a0e09c9d7c4ae36199196f63040b06f19aa0c))
+* upgrade @brian-demo-050822/api-plugin-i18n from 1.0.3 to 1.0.4 ([3d5a0e0](https://github.com/reactioncommerce/reaction/commit/3d5a0e09c9d7c4ae36199196f63040b06f19aa0c))
 
 ## [3.13.3](https://github.com/reactioncommerce/reaction/compare/v3.13.2...v3.13.3) (2021-08-19)
 

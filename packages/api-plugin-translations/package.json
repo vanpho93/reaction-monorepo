@@ -1,5 +1,5 @@
 {
-  "name": "@reactioncommerce/api-plugin-translations",
+  "name": "@brian-demo-050822/api-plugin-translations",
   "description": "Translations plugin for the Reaction API",
   "version": "1.2.2",
   "main": "index.js",
@@ -26,7 +26,7 @@
   },
   "sideEffects": false,
   "dependencies": {
-    "@reactioncommerce/api-utils": "^1.16.5"
+    "@brian-demo-050822/api-utils": "^1.16.5"
   },
   "devDependencies": {
     "@babel/core": "^7.7.7",

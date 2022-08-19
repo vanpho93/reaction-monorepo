@@ -4,7 +4,7 @@ import {
   CatalogProduct,
   CatalogProductVariant,
   CatalogProductOption
-} from "@reactioncommerce/api-plugin-catalogs/src/simpleSchemas.js";
+} from "@brian-demo-050822/api-plugin-catalogs/src/simpleSchemas.js";
 
 const schemasToAddToFactory = {
   CatalogProduct,

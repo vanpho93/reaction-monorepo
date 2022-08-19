@@ -1,5 +1,5 @@
 {
-  "name": "@reactioncommerce/api-plugin-payments",
+  "name": "@brian-demo-050822/api-plugin-payments",
   "description": "Payments plugin for the Reaction API",
   "version": "1.0.5",
   "main": "index.js",
@@ -26,7 +26,7 @@
   },
   "sideEffects": false,
   "dependencies": {
-    "@reactioncommerce/api-utils": "^1.16.9",
+    "@brian-demo-050822/api-utils": "^1.16.9",
     "@reactioncommerce/reaction-error": "^1.0.1",
     "simpl-schema": "^1.12.0"
   },
@@ -35,7 +35,7 @@
     "@babel/preset-env": "^7.7.7",
     "@commitlint/cli": "^8.3.5",
     "@commitlint/config-conventional": "^8.3.4",
-    "@reactioncommerce/api-plugin-shops": "^1.0.0",
+    "@brian-demo-050822/api-plugin-shops": "^1.0.0",
     "@reactioncommerce/babel-remove-es-create-require": "~1.0.0",
     "@reactioncommerce/data-factory": "^1.0.1",
     "@reactioncommerce/eslint-config": "~2.1.0",

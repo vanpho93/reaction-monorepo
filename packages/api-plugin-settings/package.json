@@ -1,5 +1,5 @@
 {
-  "name": "@reactioncommerce/api-plugin-settings",
+  "name": "@brian-demo-050822/api-plugin-settings",
   "description": "Settings plugin for the Reaction API",
   "version": "1.0.7",
   "main": "index.js",
@@ -26,7 +26,7 @@
   },
   "sideEffects": false,
   "dependencies": {
-    "@reactioncommerce/api-utils": "^1.16.7",
+    "@brian-demo-050822/api-utils": "^1.16.7",
     "@reactioncommerce/reaction-error": "~1.0.1",
     "simpl-schema": "~1.12.0"
   },

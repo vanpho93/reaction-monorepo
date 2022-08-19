@@ -1,4 +1,4 @@
-import hashToken from "@reactioncommerce/api-utils/hashToken.js";
+import hashToken from "@brian-demo-050822/api-utils/hashToken.js";
 import Logger from "@reactioncommerce/logger";
 import ReactionError from "@reactioncommerce/reaction-error";
 

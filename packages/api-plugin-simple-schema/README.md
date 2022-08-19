@@ -1,6 +1,6 @@
 # api-plugin-simple-schema
 
-[![npm (scoped)](https://img.shields.io/npm/v/@reactioncommerce/api-plugin-simple-schema.svg)](https://www.npmjs.com/package/@reactioncommerce/api-plugin-simple-schema)
+[![npm (scoped)](https://img.shields.io/npm/v/@brian-demo-050822/api-plugin-simple-schema.svg)](https://www.npmjs.com/package/@brian-demo-050822/api-plugin-simple-schema)
 [![CircleCI](https://circleci.com/gh/reactioncommerce/api-plugin-simple-schema.svg?style=svg)](https://circleci.com/gh/reactioncommerce/api-plugin-simple-schema)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
@@ -13,14 +13,14 @@ The [SimpleSchema](https://github.com/aldeed/simple-schema-js) package is used b
 ## Installation
 
 ```sh
-npm install @reactioncommerce/api-plugin-simple-schema
+npm install @brian-demo-050822/api-plugin-simple-schema
 ```
 
 Then add a reference in `plugins.json`, using any key you want. The order in which plugins appear in this file is the order in which they load.
 
 ```json
 {
-  simpleSchema: "@reactioncommerce/api-plugin-simple-schema"
+  simpleSchema: "@brian-demo-050822/api-plugin-simple-schema"
 }
 ```
 

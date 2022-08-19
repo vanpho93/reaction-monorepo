@@ -1,5 +1,5 @@
 import SimpleSchema from "simpl-schema";
-import getSlug from "@reactioncommerce/api-utils/getSlug.js";
+import getSlug from "@brian-demo-050822/api-utils/getSlug.js";
 import Logger from "@reactioncommerce/logger";
 import Random from "@reactioncommerce/random";
 import ReactionError from "@reactioncommerce/reaction-error";

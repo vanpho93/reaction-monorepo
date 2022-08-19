@@ -1,4 +1,4 @@
-import resolveShopFromShopId from "@reactioncommerce/api-utils/graphql/resolveShopFromShopId.js";
+import resolveShopFromShopId from "@brian-demo-050822/api-utils/graphql/resolveShopFromShopId.js";
 import { encodeGroupOpaqueId } from "../../xforms/id.js";
 import createdBy from "./createdBy.js";
 

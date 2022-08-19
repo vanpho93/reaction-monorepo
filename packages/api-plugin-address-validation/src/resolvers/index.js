@@ -1,4 +1,4 @@
-import getConnectionTypeResolvers from "@reactioncommerce/api-utils/graphql/getConnectionTypeResolvers.js";
+import getConnectionTypeResolvers from "@brian-demo-050822/api-utils/graphql/getConnectionTypeResolvers.js";
 import Address from "./Address.js";
 import AddressValidationRule from "./AddressValidationRule.js";
 import Mutation from "./Mutation/index.js";

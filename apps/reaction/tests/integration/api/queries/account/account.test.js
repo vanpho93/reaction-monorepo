@@ -1,6 +1,6 @@
-import importAsString from "@reactioncommerce/api-utils/importAsString.js";
+import importAsString from "@brian-demo-050822/api-utils/importAsString.js";
 import Factory from "/tests/util/factory.js";
-import { importPluginsJSONFile, ReactionTestAPICore } from "@reactioncommerce/api-core";
+import { importPluginsJSONFile, ReactionTestAPICore } from "@brian-demo-050822/api-core";
 
 const AccountFullQuery = importAsString("./AccountFullQuery.graphql");
 

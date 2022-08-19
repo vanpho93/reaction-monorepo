@@ -1,5 +1,5 @@
 {
-  "name": "@reactioncommerce/api-plugin-payments-stripe",
+  "name": "@brian-demo-050822/api-plugin-payments-stripe",
   "description": "Stripe Payments plugin for the Reaction API",
   "version": "1.0.4",
   "main": "index.js",
@@ -26,7 +26,7 @@
   },
   "sideEffects": false,
   "dependencies": {
-    "@reactioncommerce/api-utils": "^1.16.5",
+    "@brian-demo-050822/api-utils": "^1.16.5",
     "@reactioncommerce/logger": "^1.1.3",
     "@reactioncommerce/random": "^1.0.2",
     "accounting-js": "^1.1.1",

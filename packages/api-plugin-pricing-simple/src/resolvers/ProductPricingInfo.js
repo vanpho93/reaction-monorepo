@@ -1,4 +1,4 @@
-import getCurrencyDefinitionByCode from "@reactioncommerce/api-utils/getCurrencyDefinitionByCode.js";
+import getCurrencyDefinitionByCode from "@brian-demo-050822/api-utils/getCurrencyDefinitionByCode.js";
 import getDisplayPrice from "../util/getDisplayPrice.js";
 
 export default {

@@ -1,4 +1,4 @@
-import importAsString from "@reactioncommerce/api-utils/importAsString.js";
+import importAsString from "@brian-demo-050822/api-utils/importAsString.js";
 import getCommonData from "./checkoutTestsCommon.js";
 
 const AnonymousCartByCartIdQuery = importAsString("./AnonymousCartByCartIdQuery.graphql");

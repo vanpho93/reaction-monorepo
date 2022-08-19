@@ -1,8 +1,8 @@
-import decodeOpaqueIdForNamespace from "@reactioncommerce/api-utils/decodeOpaqueIdForNamespace.js";
-import encodeOpaqueId from "@reactioncommerce/api-utils/encodeOpaqueId.js";
-import importAsString from "@reactioncommerce/api-utils/importAsString.js";
+import decodeOpaqueIdForNamespace from "@brian-demo-050822/api-utils/decodeOpaqueIdForNamespace.js";
+import encodeOpaqueId from "@brian-demo-050822/api-utils/encodeOpaqueId.js";
+import importAsString from "@brian-demo-050822/api-utils/importAsString.js";
 import Factory from "/tests/util/factory.js";
-import { importPluginsJSONFile, ReactionTestAPICore } from "@reactioncommerce/api-core";
+import { importPluginsJSONFile, ReactionTestAPICore } from "@brian-demo-050822/api-core";
 
 const AddCartItemsMutation = importAsString("./AddCartItemsMutation.graphql");
 const AvailablePaymentMethodsQuery = importAsString("./AvailablePaymentMethodsQuery.graphql");

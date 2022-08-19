@@ -1,4 +1,4 @@
-import getFakeMongoCursor from "@reactioncommerce/api-utils/tests/getFakeMongoCursor.js";
+import getFakeMongoCursor from "@brian-demo-050822/api-utils/tests/getFakeMongoCursor.js";
 import navigationItemsByShopIdResolver from "./navigationItemsByShopId.js";
 
 const opaqueShopId = "cmVhY3Rpb24vc2hvcDoxMjM="; // reaction/shop:123

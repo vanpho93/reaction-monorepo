@@ -1,5 +1,5 @@
-import mockContext from "@reactioncommerce/api-utils/tests/mockContext.js";
-import hashToken from "@reactioncommerce/api-utils/hashToken.js";
+import mockContext from "@brian-demo-050822/api-utils/tests/mockContext.js";
+import hashToken from "@brian-demo-050822/api-utils/hashToken.js";
 import anonymousCartByCartId from "./anonymousCartByCartId.js";
 
 test("query anonymous cart", async () => {

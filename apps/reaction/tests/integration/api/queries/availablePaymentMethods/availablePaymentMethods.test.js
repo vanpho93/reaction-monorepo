@@ -1,7 +1,7 @@
-import encodeOpaqueId from "@reactioncommerce/api-utils/encodeOpaqueId.js";
-import importAsString from "@reactioncommerce/api-utils/importAsString.js";
-import insertPrimaryShop from "@reactioncommerce/api-utils/tests/insertPrimaryShop.js";
-import { importPluginsJSONFile, ReactionTestAPICore } from "@reactioncommerce/api-core";
+import encodeOpaqueId from "@brian-demo-050822/api-utils/encodeOpaqueId.js";
+import importAsString from "@brian-demo-050822/api-utils/importAsString.js";
+import insertPrimaryShop from "@brian-demo-050822/api-utils/tests/insertPrimaryShop.js";
+import { importPluginsJSONFile, ReactionTestAPICore } from "@brian-demo-050822/api-core";
 
 const AvailablePaymentMethodsQuery = importAsString("./AvailablePaymentMethodsQuery.graphql");
 

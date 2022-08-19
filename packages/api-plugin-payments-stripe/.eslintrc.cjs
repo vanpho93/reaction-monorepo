@@ -1,3 +1,3 @@
 module.exports = {
-  extends: "./node_modules/@reactioncommerce/api-utils/lib/configs/eslintrc.cjs"
+  extends: "./node_modules/@brian-demo-050822/api-utils/lib/configs/eslintrc.cjs"
 };

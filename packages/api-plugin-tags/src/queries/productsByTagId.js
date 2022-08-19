@@ -1,4 +1,4 @@
-import arrayJoinPlusRemainingQuery from "@reactioncommerce/api-utils/arrayJoinPlusRemainingQuery.js";
+import arrayJoinPlusRemainingQuery from "@brian-demo-050822/api-utils/arrayJoinPlusRemainingQuery.js";
 
 /**
  * @name queries.productsByTagId

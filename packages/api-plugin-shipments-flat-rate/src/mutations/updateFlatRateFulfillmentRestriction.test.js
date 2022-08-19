@@ -1,5 +1,5 @@
-import mockCollection from "@reactioncommerce/api-utils/tests/mockCollection.js";
-import mockContext from "@reactioncommerce/api-utils/tests/mockContext.js";
+import mockCollection from "@brian-demo-050822/api-utils/tests/mockCollection.js";
+import mockContext from "@brian-demo-050822/api-utils/tests/mockContext.js";
 import updateFlatRateFulfillmentRestrictionMutation from "./updateFlatRateFulfillmentRestriction.js";
 
 

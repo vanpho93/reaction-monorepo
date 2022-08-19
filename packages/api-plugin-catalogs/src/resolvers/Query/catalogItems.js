@@ -1,7 +1,7 @@
 import Logger from "@reactioncommerce/logger";
 import ReactionError from "@reactioncommerce/reaction-error";
-import getPaginatedResponse from "@reactioncommerce/api-utils/graphql/getPaginatedResponse.js";
-import wasFieldRequested from "@reactioncommerce/api-utils/graphql/wasFieldRequested.js";
+import getPaginatedResponse from "@brian-demo-050822/api-utils/graphql/getPaginatedResponse.js";
+import wasFieldRequested from "@brian-demo-050822/api-utils/graphql/wasFieldRequested.js";
 import { decodeShopOpaqueId, decodeTagOpaqueId } from "../../xforms/id.js";
 import xformCatalogBooleanFilters from "../../utils/catalogBooleanFilters.js";
 

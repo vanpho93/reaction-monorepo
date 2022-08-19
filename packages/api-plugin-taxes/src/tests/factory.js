@@ -2,13 +2,13 @@ import { createFactoryForSchema, Factory } from "@reactioncommerce/data-factory"
 
 import {
   CartAddress
-} from "@reactioncommerce/api-plugin-carts/src/simpleSchemas.js";
+} from "@brian-demo-050822/api-plugin-carts/src/simpleSchemas.js";
 
 import {
   CommonOrder,
   CommonOrderItem,
   OrderAddress
-} from "@reactioncommerce/api-plugin-orders/src/simpleSchemas.js";
+} from "@brian-demo-050822/api-plugin-orders/src/simpleSchemas.js";
 
 import {
   Taxes,

@@ -3,11 +3,11 @@ import {
   Catalog,
   CatalogProduct,
   CatalogProductVariant
-} from "@reactioncommerce/api-plugin-catalogs/src/simpleSchemas.js";
+} from "@brian-demo-050822/api-plugin-catalogs/src/simpleSchemas.js";
 
 import {
   Shop
-} from "@reactioncommerce/api-plugin-shops/src/simpleSchemas.js";
+} from "@brian-demo-050822/api-plugin-shops/src/simpleSchemas.js";
 
 import {
   CommonOrder,

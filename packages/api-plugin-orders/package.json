@@ -1,5 +1,5 @@
 {
-  "name": "@reactioncommerce/api-plugin-orders",
+  "name": "@brian-demo-050822/api-plugin-orders",
   "description": "Orders plugin for the Reaction API",
   "version": "1.4.4",
   "main": "index.js",
@@ -26,7 +26,7 @@
   },
   "sideEffects": false,
   "dependencies": {
-    "@reactioncommerce/api-utils": "^1.16.5",
+    "@brian-demo-050822/api-utils": "^1.16.5",
     "@reactioncommerce/logger": "^1.1.4",
     "@reactioncommerce/random": "^1.0.2",
     "@reactioncommerce/reaction-error": "^1.0.1",
@@ -39,8 +39,8 @@
     "@babel/preset-env": "^7.7.7",
     "@commitlint/cli": "^8.3.5",
     "@commitlint/config-conventional": "^8.3.4",
-    "@reactioncommerce/api-plugin-catalogs": "^1.0.0",
-    "@reactioncommerce/api-plugin-shops": "^1.0.0",
+    "@brian-demo-050822/api-plugin-catalogs": "^1.0.0",
+    "@brian-demo-050822/api-plugin-shops": "^1.0.0",
     "@reactioncommerce/babel-remove-es-create-require": "~1.0.0",
     "@reactioncommerce/data-factory": "^1.0.1",
     "@reactioncommerce/eslint-config": "~2.1.0",

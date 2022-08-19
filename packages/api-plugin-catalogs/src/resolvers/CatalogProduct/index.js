@@ -1,5 +1,5 @@
 import graphqlFields from "graphql-fields";
-import resolveShopFromShopId from "@reactioncommerce/api-utils/graphql/resolveShopFromShopId.js";
+import resolveShopFromShopId from "@brian-demo-050822/api-utils/graphql/resolveShopFromShopId.js";
 import xformCatalogProductMedia from "../../utils/xformCatalogProductMedia.js";
 import xformCatalogProductVariants from "../../utils/xformCatalogProductVariants.js";
 import { encodeProductOpaqueId, encodeCatalogProductOpaqueId } from "../../xforms/id.js";

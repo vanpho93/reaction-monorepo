@@ -1,6 +1,6 @@
-import importAsString from "@reactioncommerce/api-utils/importAsString.js";
-import insertPrimaryShop from "@reactioncommerce/api-utils/tests/insertPrimaryShop.js";
-import { importPluginsJSONFile, ReactionTestAPICore } from "@reactioncommerce/api-core";
+import importAsString from "@brian-demo-050822/api-utils/importAsString.js";
+import insertPrimaryShop from "@brian-demo-050822/api-utils/tests/insertPrimaryShop.js";
+import { importPluginsJSONFile, ReactionTestAPICore } from "@brian-demo-050822/api-core";
 // temp mocks
 import { internalShopId, opaqueShopId, shopName } from "../../../../mocks/mockShop";
 import { internalTagIds, opaqueTagIds } from "../../../../mocks/mockTags";

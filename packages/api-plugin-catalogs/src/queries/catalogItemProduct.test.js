@@ -1,4 +1,4 @@
-import mockContext from "@reactioncommerce/api-utils/tests/mockContext.js";
+import mockContext from "@brian-demo-050822/api-utils/tests/mockContext.js";
 import catalogItemProduct from "./catalogItemProduct.js";
 
 const productId = "cmVhY3Rpb24vY2F0YWxvZ0l0ZW06MTIz"; // reaction/catalogItem:123

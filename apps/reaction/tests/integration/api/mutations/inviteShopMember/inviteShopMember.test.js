@@ -1,7 +1,7 @@
-import encodeOpaqueId from "@reactioncommerce/api-utils/encodeOpaqueId.js";
-import importAsString from "@reactioncommerce/api-utils/importAsString.js";
+import encodeOpaqueId from "@brian-demo-050822/api-utils/encodeOpaqueId.js";
+import importAsString from "@brian-demo-050822/api-utils/importAsString.js";
 import Factory from "/tests/util/factory.js";
-import { importPluginsJSONFile, ReactionTestAPICore } from "@reactioncommerce/api-core";
+import { importPluginsJSONFile, ReactionTestAPICore } from "@brian-demo-050822/api-core";
 
 const inviteShopMember = importAsString("./inviteShopMember.graphql");
 

@@ -1,6 +1,6 @@
 /* eslint-disable require-jsdoc */
-import hashToken from "@reactioncommerce/api-utils/hashToken.js";
-import mockContext from "@reactioncommerce/api-utils/tests/mockContext.js";
+import hashToken from "@brian-demo-050822/api-utils/hashToken.js";
+import mockContext from "@brian-demo-050822/api-utils/tests/mockContext.js";
 import { getOrderQuery } from "./getOrderQuery.js";
 
 function makeContext() {

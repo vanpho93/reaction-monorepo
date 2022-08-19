@@ -1,6 +1,6 @@
-import getPaginatedResponse from "@reactioncommerce/api-utils/graphql/getPaginatedResponse.js";
-import wasFieldRequested from "@reactioncommerce/api-utils/graphql/wasFieldRequested.js";
-import xformArrayToConnection from "@reactioncommerce/api-utils/graphql/xformArrayToConnection.js";
+import getPaginatedResponse from "@brian-demo-050822/api-utils/graphql/getPaginatedResponse.js";
+import wasFieldRequested from "@brian-demo-050822/api-utils/graphql/wasFieldRequested.js";
+import xformArrayToConnection from "@brian-demo-050822/api-utils/graphql/xformArrayToConnection.js";
 
 /**
  * Arguments passed by the client for a tags query

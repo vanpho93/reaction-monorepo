@@ -4,7 +4,7 @@ import SimpleSchema from "simpl-schema";
 import Logger from "@reactioncommerce/logger";
 import Random from "@reactioncommerce/random";
 import ReactionError from "@reactioncommerce/reaction-error";
-import getSlug from "@reactioncommerce/api-utils/getSlug.js";
+import getSlug from "@brian-demo-050822/api-utils/getSlug.js";
 import copyMedia from "../utils/copyMedia.js";
 import createHandle from "../utils/createHandle.js";
 import createTitle from "../utils/createTitle.js";

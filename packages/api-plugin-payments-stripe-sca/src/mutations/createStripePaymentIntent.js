@@ -1,6 +1,6 @@
 import ReactionError from "@reactioncommerce/reaction-error";
-import hashToken from "@reactioncommerce/api-utils/hashToken.js";
-import xformCartCheckout from "@reactioncommerce/api-plugin-carts/src/xforms/xformCartCheckout.js";
+import hashToken from "@brian-demo-050822/api-utils/hashToken.js";
+import xformCartCheckout from "@brian-demo-050822/api-plugin-carts/src/xforms/xformCartCheckout.js";
 import getStripeInstance from "../util/getStripeInstance.js";
 
 /**

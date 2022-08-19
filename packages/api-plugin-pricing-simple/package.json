@@ -1,5 +1,5 @@
 {
-  "name": "@reactioncommerce/api-plugin-pricing-simple",
+  "name": "@brian-demo-050822/api-plugin-pricing-simple",
   "description": "Simple Pricing plugin for the Reaction API",
   "version": "1.0.7",
   "main": "index.js",
@@ -26,7 +26,7 @@
   },
   "sideEffects": false,
   "dependencies": {
-    "@reactioncommerce/api-utils": "^1.16.5",
+    "@brian-demo-050822/api-utils": "^1.16.5",
     "@reactioncommerce/logger": "^1.1.4",
     "@reactioncommerce/reaction-error": "^1.0.1",
     "accounting-js": "^1.1.1",

@@ -1,6 +1,6 @@
 # api-plugin-surcharges
 
-[![npm (scoped)](https://img.shields.io/npm/v/@reactioncommerce/api-plugin-surcharges.svg)](https://www.npmjs.com/package/@reactioncommerce/api-plugin-surcharges)
+[![npm (scoped)](https://img.shields.io/npm/v/@brian-demo-050822/api-plugin-surcharges.svg)](https://www.npmjs.com/package/@brian-demo-050822/api-plugin-surcharges)
 [![CircleCI](https://circleci.com/gh/reactioncommerce/api-plugin-surcharges.svg?style=svg)](https://circleci.com/gh/reactioncommerce/api-plugin-surcharges)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 

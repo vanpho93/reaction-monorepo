@@ -5,7 +5,7 @@ Returns a paginated response from a MongoDB aggregation pipeline.
 Usage example:
 
 ```js
-import getPaginatedResponseFromAggregate from "@reactioncommerce/api-utils/getPaginatedResponseFromAggregate.js";
+import getPaginatedResponseFromAggregate from "@brian-demo-050822/api-utils/getPaginatedResponseFromAggregate.js";
 
 // the MongoDB collection you want to run your aggregation on
 const collection = getYourMongoDBCollectionSomehow();

@@ -1,5 +1,5 @@
 import _ from "lodash";
-import xformArrayToConnection from "@reactioncommerce/api-utils/graphql/xformArrayToConnection.js";
+import xformArrayToConnection from "@brian-demo-050822/api-utils/graphql/xformArrayToConnection.js";
 import xformOrderItems from "../../xforms/xformOrderItems.js";
 
 /**

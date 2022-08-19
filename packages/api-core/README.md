@@ -34,7 +34,7 @@ This NPM package also provides the `ReactionTestAPICore` class, which you can us
 ## Installation
 
 ```sh
-npm install @reactioncommerce/api-core graphql
+npm install @brian-demo-050822/api-core graphql
 ```
 
 The `graphql` package is a required peer dependency.
@@ -44,7 +44,7 @@ The `graphql` package is a required peer dependency.
 Here is example usage assuming Node 12.14.1 with experimental modules enabled.
 
 ```js
-import { ReactionAPICore } from "@reactioncommerce/api-core";
+import { ReactionAPICore } from "@brian-demo-050822/api-core";
 import registerFooPlugin from "reaction-plugin-foo";
 import Logger from "@reactioncommerce/logger";
 import packageJson from "../package.json";
@@ -87,7 +87,7 @@ run().catch((error) => {
 Alternatively, you can keep your plugin list in a JSON file:
 
 ```js
-import { importPluginsJSONFile, ReactionAPICore } from "@reactioncommerce/api-core";
+import { importPluginsJSONFile, ReactionAPICore } from "@brian-demo-050822/api-core";
 import Logger from "@reactioncommerce/logger";
 import authorizationPlugin from "@reactioncommerce/reaction-plugin-authorization";
 import packageJson from "../package.json";

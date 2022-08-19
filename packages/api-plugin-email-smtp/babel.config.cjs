@@ -1,1 +1,1 @@
-module.exports = require("@reactioncommerce/api-utils/lib/configs/babel.config.cjs");
+module.exports = require("@brian-demo-050822/api-utils/lib/configs/babel.config.cjs");

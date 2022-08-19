@@ -1,4 +1,4 @@
-import { importPluginsJSONFile, ReactionAPICore } from "@reactioncommerce/api-core";
+import { importPluginsJSONFile, ReactionAPICore } from "@brian-demo-050822/api-core";
 import Logger from "@reactioncommerce/logger";
 import dotenv from "dotenv";
 import packageJson from "../package.json";

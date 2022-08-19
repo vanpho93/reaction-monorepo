@@ -1,5 +1,5 @@
-import resolveAccountFromAccountId from "@reactioncommerce/api-utils/graphql/resolveAccountFromAccountId.js";
-import resolveShopFromShopId from "@reactioncommerce/api-utils/graphql/resolveShopFromShopId.js";
+import resolveAccountFromAccountId from "@brian-demo-050822/api-utils/graphql/resolveAccountFromAccountId.js";
+import resolveShopFromShopId from "@brian-demo-050822/api-utils/graphql/resolveShopFromShopId.js";
 import { encodeCartOpaqueId, encodeOrderOpaqueId } from "../../xforms/id.js";
 import orderDisplayStatus from "./orderDisplayStatus.js";
 import orderSummary from "./orderSummary.js";

@@ -2,7 +2,7 @@ import { createFactoryForSchema, Factory } from "@reactioncommerce/data-factory"
 
 import {
   Shop
-} from "@reactioncommerce/api-plugin-shops/src/simpleSchemas.js";
+} from "@brian-demo-050822/api-plugin-shops/src/simpleSchemas.js";
 
 const schemasToAddToFactory = {
   Shop

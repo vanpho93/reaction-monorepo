@@ -1,5 +1,5 @@
 import _ from "lodash";
-import getCurrencyDefinitionByCode from "@reactioncommerce/api-utils/getCurrencyDefinitionByCode.js";
+import getCurrencyDefinitionByCode from "@brian-demo-050822/api-utils/getCurrencyDefinitionByCode.js";
 import { encodeAccountOpaqueId } from "../../xforms/id.js";
 import addressBook from "./addressBook.js";
 import adminUIShops from "./adminUIShops.js";

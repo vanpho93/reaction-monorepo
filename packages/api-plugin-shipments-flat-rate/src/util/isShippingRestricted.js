@@ -1,5 +1,5 @@
-import operators from "@reactioncommerce/api-utils/operators.js";
-import propertyTypes from "@reactioncommerce/api-utils/propertyTypes.js";
+import operators from "@brian-demo-050822/api-utils/operators.js";
+import propertyTypes from "@brian-demo-050822/api-utils/propertyTypes.js";
 import isDestinationRestricted from "./isDestinationRestricted.js";
 
 /**

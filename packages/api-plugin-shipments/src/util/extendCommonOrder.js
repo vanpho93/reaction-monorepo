@@ -1,6 +1,6 @@
 import _ from "lodash";
 import ReactionError from "@reactioncommerce/reaction-error";
-import tagsForCatalogProducts from "@reactioncommerce/api-utils/tagsForCatalogProducts.js";
+import tagsForCatalogProducts from "@brian-demo-050822/api-utils/tagsForCatalogProducts.js";
 
 /**
  * @name mergeProductAndVariants

@@ -1,4 +1,4 @@
-import optimizeIdOnly from "@reactioncommerce/api-utils/graphql/optimizeIdOnly.js";
+import optimizeIdOnly from "@brian-demo-050822/api-utils/graphql/optimizeIdOnly.js";
 
 /**
  * @name Query/viewer

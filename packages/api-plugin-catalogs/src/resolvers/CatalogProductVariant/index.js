@@ -1,4 +1,4 @@
-import resolveShopFromShopId from "@reactioncommerce/api-utils/graphql/resolveShopFromShopId.js";
+import resolveShopFromShopId from "@brian-demo-050822/api-utils/graphql/resolveShopFromShopId.js";
 import xformCatalogProductMedia from "../../utils/xformCatalogProductMedia.js";
 import { encodeCatalogProductVariantOpaqueId, encodeProductOpaqueId } from "../../xforms/id.js";
 

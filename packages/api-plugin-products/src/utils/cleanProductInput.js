@@ -1,4 +1,4 @@
-import getSlug from "@reactioncommerce/api-utils/getSlug.js";
+import getSlug from "@brian-demo-050822/api-utils/getSlug.js";
 import createHandle from "./createHandle.js";
 
 const productFieldsThatShouldNotBeDirectlySet = [

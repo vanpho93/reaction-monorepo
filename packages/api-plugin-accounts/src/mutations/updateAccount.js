@@ -1,6 +1,6 @@
 import SimpleSchema from "simpl-schema";
 import ReactionError from "@reactioncommerce/reaction-error";
-import CurrencyDefinitions from "@reactioncommerce/api-utils/CurrencyDefinitions.js";
+import CurrencyDefinitions from "@brian-demo-050822/api-utils/CurrencyDefinitions.js";
 import { Account } from "../simpleSchemas.js";
 
 const inputSchema = new SimpleSchema({

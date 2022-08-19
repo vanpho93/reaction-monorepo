@@ -1,4 +1,4 @@
-import { importPluginsJSONFile, ReactionTestAPICore } from "@reactioncommerce/api-core";
+import { importPluginsJSONFile, ReactionTestAPICore } from "@brian-demo-050822/api-core";
 
 jest.setTimeout(300000);
 

@@ -1,6 +1,6 @@
 import _ from "lodash";
 import ReactionError from "@reactioncommerce/reaction-error";
-import arrayJoinPlusRemainingQuery from "@reactioncommerce/api-utils/arrayJoinPlusRemainingQuery.js";
+import arrayJoinPlusRemainingQuery from "@brian-demo-050822/api-utils/arrayJoinPlusRemainingQuery.js";
 
 /**
  * @name catalogItemsAggregate

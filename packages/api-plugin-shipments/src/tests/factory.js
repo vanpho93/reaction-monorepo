@@ -3,7 +3,7 @@ import { createFactoryForSchema, Factory } from "@reactioncommerce/data-factory"
 import {
   Cart,
   ShipmentQuote
-} from "@reactioncommerce/api-plugin-carts/src/simpleSchemas.js";
+} from "@brian-demo-050822/api-plugin-carts/src/simpleSchemas.js";
 
 const schemasToAddToFactory = {
   Cart,

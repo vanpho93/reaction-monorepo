@@ -1,4 +1,4 @@
-import getConnectionTypeResolvers from "@reactioncommerce/api-utils/graphql/getConnectionTypeResolvers.js";
+import getConnectionTypeResolvers from "@brian-demo-050822/api-utils/graphql/getConnectionTypeResolvers.js";
 import AppliedSurcharge from "./AppliedSurcharge/index.js";
 import Surcharge from "./Surcharge/index.js";
 import Mutation from "./Mutation/index.js";

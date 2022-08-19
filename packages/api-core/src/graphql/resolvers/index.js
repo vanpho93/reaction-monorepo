@@ -1,5 +1,5 @@
 import { createRequire } from "module";
-import encodeOpaqueId from "@reactioncommerce/api-utils/encodeOpaqueId.js";
+import encodeOpaqueId from "@brian-demo-050822/api-utils/encodeOpaqueId.js";
 import config from "../../config.js";
 import ConnectionCursor from "./ConnectionCursor.js";
 import ConnectionLimitInt from "./ConnectionLimitInt.js";

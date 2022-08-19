@@ -1,4 +1,4 @@
-import decodeOpaqueIdForNamespace from "@reactioncommerce/api-utils/decodeOpaqueIdForNamespace.js";
+import decodeOpaqueIdForNamespace from "@brian-demo-050822/api-utils/decodeOpaqueIdForNamespace.js";
 
 const decodeProductOpaqueId = decodeOpaqueIdForNamespace("reaction/product");
 const decodeShopOpaqueId = decodeOpaqueIdForNamespace("reaction/shop");

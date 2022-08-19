@@ -1,4 +1,4 @@
-import getConnectionTypeResolvers from "@reactioncommerce/api-utils/graphql/getConnectionTypeResolvers.js";
+import getConnectionTypeResolvers from "@brian-demo-050822/api-utils/graphql/getConnectionTypeResolvers.js";
 import { encodeCatalogItemOpaqueId } from "../xforms/id.js";
 import CatalogItemProduct from "./CatalogItemProduct/index.js";
 import CatalogProduct from "./CatalogProduct/index.js";

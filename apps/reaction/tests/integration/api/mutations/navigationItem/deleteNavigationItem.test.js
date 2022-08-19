@@ -1,8 +1,8 @@
-import importAsString from "@reactioncommerce/api-utils/importAsString.js";
-import insertPrimaryShop from "@reactioncommerce/api-utils/tests/insertPrimaryShop.js";
-import decodeOpaqueIdForNamespace from "@reactioncommerce/api-utils/decodeOpaqueIdForNamespace.js";
+import importAsString from "@brian-demo-050822/api-utils/importAsString.js";
+import insertPrimaryShop from "@brian-demo-050822/api-utils/tests/insertPrimaryShop.js";
+import decodeOpaqueIdForNamespace from "@brian-demo-050822/api-utils/decodeOpaqueIdForNamespace.js";
 import Factory from "/tests/util/factory.js";
-import { importPluginsJSONFile, ReactionTestAPICore } from "@reactioncommerce/api-core";
+import { importPluginsJSONFile, ReactionTestAPICore } from "@brian-demo-050822/api-core";
 
 const CreateNavigationItemMutation = importAsString("./CreateNavigationItemMutation.graphql");
 const DeleteNavigationItemMutation = importAsString("./DeleteNavigationItemMutation.graphql");

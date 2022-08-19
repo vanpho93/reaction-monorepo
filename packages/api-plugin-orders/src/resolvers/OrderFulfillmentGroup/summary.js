@@ -1,4 +1,4 @@
-import getRateObjectForRate from "@reactioncommerce/api-utils/getRateObjectForRate.js";
+import getRateObjectForRate from "@brian-demo-050822/api-utils/getRateObjectForRate.js";
 
 /**
  * @name OrderFulfillmentGroup/summary

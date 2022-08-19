@@ -1,4 +1,4 @@
-const jestConfig = require("@reactioncommerce/api-utils/lib/configs/jest.config.cjs");
+const jestConfig = require("@brian-demo-050822/api-utils/lib/configs/jest.config.cjs");
 
 /* eslint-disable max-len */
 // For a detailed explanation regarding each configuration property, visit:
@@ -6,9 +6,9 @@ const jestConfig = require("@reactioncommerce/api-utils/lib/configs/jest.config.
 
 // Any packages that are published only as ESM need to be listed here
 const externalNodeModules = [
-  "@reactioncommerce/api-utils",
-  "@reactioncommerce/api-plugin-carts",
-  "@reactioncommerce/api-plugin-orders"
+  "@brian-demo-050822/api-utils",
+  "@brian-demo-050822/api-plugin-carts",
+  "@brian-demo-050822/api-plugin-orders"
 ];
 
 jestConfig.transformIgnorePatterns = [

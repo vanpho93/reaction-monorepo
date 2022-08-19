@@ -1,6 +1,6 @@
 import { createRequire } from "module";
 import { URL } from "url";
-import hashToken from "@reactioncommerce/api-utils/hashToken.js";
+import hashToken from "@brian-demo-050822/api-utils/hashToken.js";
 import Logger from "@reactioncommerce/logger";
 import Random from "@reactioncommerce/random";
 import ReactionAPICore from "./ReactionAPICore.js";

@@ -5,7 +5,7 @@ import {
 } from "graphql-tools";
 import fetch from "node-fetch";
 import nock from "nock";
-import { ReactionTestAPICore } from "@reactioncommerce/api-core";
+import { ReactionTestAPICore } from "@brian-demo-050822/api-core";
 
 // This is used in URLs for testing,
 // but we never actually start a service on this port.

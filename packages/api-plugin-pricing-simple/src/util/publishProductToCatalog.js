@@ -1,4 +1,4 @@
-import CurrencyDefinitions from "@reactioncommerce/api-utils/CurrencyDefinitions.js";
+import CurrencyDefinitions from "@brian-demo-050822/api-utils/CurrencyDefinitions.js";
 import getPriceRange from "./getPriceRange.js";
 
 /**

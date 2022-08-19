@@ -1,4 +1,4 @@
-import collectionIndex from "@reactioncommerce/api-utils/collectionIndex.js";
+import collectionIndex from "@brian-demo-050822/api-utils/collectionIndex.js";
 import getProductPriceRange from "./util/getProductPriceRange.js";
 import getVariantPriceRange from "./util/getVariantPriceRange.js";
 

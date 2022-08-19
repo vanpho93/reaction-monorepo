@@ -1,4 +1,4 @@
-import getFakeMongoCursor from "@reactioncommerce/api-utils/tests/getFakeMongoCursor.js";
+import getFakeMongoCursor from "@brian-demo-050822/api-utils/tests/getFakeMongoCursor.js";
 import roles from "./roles.js";
 
 jest.mock("graphql-fields", () => jest.fn().mockName("graphqlFields"));

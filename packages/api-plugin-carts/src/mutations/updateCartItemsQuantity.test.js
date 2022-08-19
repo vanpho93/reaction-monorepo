@@ -1,4 +1,4 @@
-import mockContext from "@reactioncommerce/api-utils/tests/mockContext.js";
+import mockContext from "@brian-demo-050822/api-utils/tests/mockContext.js";
 import updateCartItemsQuantity from "./updateCartItemsQuantity.js";
 
 jest.mock("../util/getCartById", () => jest.fn().mockImplementation(() => Promise.resolve({

@@ -1,6 +1,6 @@
 import Factory from "/tests/util/factory.js";
-import { importPluginsJSONFile, ReactionTestAPICore } from "@reactioncommerce/api-core";
-import insertPrimaryShop from "@reactioncommerce/api-utils/tests/insertPrimaryShop.js";
+import { importPluginsJSONFile, ReactionTestAPICore } from "@brian-demo-050822/api-core";
+import insertPrimaryShop from "@brian-demo-050822/api-utils/tests/insertPrimaryShop.js";
 
 jest.setTimeout(300000);
 
