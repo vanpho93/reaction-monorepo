@@ -1,5 +1,5 @@
 {
-  "name": "@reactioncommerce/api-plugin-inventory-simple",
+  "name": "@brian-demo-050822/api-plugin-inventory-simple",
   "description": "Simple Inventory plugin for the Reaction API",
   "version": "1.0.6",
   "main": "index.js",

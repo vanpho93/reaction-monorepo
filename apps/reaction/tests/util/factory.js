@@ -40,7 +40,7 @@ import {
 
 import {
   SimpleInventoryCollectionSchema as SimpleInventory
-} from "@reactioncommerce/api-plugin-inventory-simple/src/simpleSchemas.js";
+} from "@brian-demo-050822/api-plugin-inventory-simple/src/simpleSchemas.js";
 
 import {
   NavigationItem,
