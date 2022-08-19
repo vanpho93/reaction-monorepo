@@ -1,18 +1,19 @@
 {
   "name": "@reactioncommerce/api-plugin-accounts",
   "description": "Accounts plugin for the Reaction API",
-  "version": "2.0.2",
+  "version": "2.0.4",
   "main": "index.js",
   "type": "module",
   "engines": {
     "node": ">=14.18.1"
   },
-  "homepage": "https://github.com/reactioncommerce/api-plugin-accounts",
-  "url": "https://github.com/reactioncommerce/api-plugin-accounts",
+  "homepage": "https://github.com/reactioncommerce/reaction",
+  "url": "https://github.com/reactioncommerce/reaction",
   "email": "hello-open-commerce@mailchimp.com",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reactioncommerce/api-plugin-accounts.git"
+    "url": "https://github.com/reactioncommerce/reaction.git",
+    "directory": "packages/api-plugin-accounts"
   },
   "author": {
     "name": "Reaction Commerce",
@@ -21,7 +22,7 @@
   },
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/reactioncommerce/api-plugin-accounts/issues"
+    "url": "https://github.com/reactioncommerce/reaction/issues"
   },
   "sideEffects": false,
   "dependencies": {
@@ -65,7 +66,8 @@
     "lint:eslint": "eslint .",
     "test": "jest",
     "test:watch": "jest --watch",
-    "test:file": "jest --no-cache --watch --coverage=false"
+    "test:file": "jest --no-cache --watch --coverage=false",
+    "lint:gql": "echo \"Error: no lint specified\" && exit 0"
   },
   "commitlint": {
     "extends": [

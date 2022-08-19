@@ -1,18 +1,19 @@
 {
   "name": "@reactioncommerce/api-plugin-payments-stripe-sca",
   "description": "Stripe SCA Payments plugin for the Reaction API",
-  "version": "0.0.0-development",
+  "version": "1.0.2",
   "main": "index.js",
   "type": "module",
   "engines": {
     "node": ">=12.14.1"
   },
-  "homepage": "https://github.com/reactioncommerce/api-plugin-payments-stripe-sca",
-  "url": "https://github.com/reactioncommerce/api-plugin-payments-stripe-sca",
+  "homepage": "https://github.com/reactioncommerce/reaction",
+  "url": "https://github.com/reactioncommerce/reaction",
   "email": "hello-open-commerce@mailchimp.com",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reactioncommerce/api-plugin-payments-stripe-sca.git"
+    "url": "https://github.com/reactioncommerce/reaction.git",
+    "directory": "packages/api-plugin-payments-stripe-sca"
   },
   "author": {
     "name": "Mailchimp Open Commerce",
@@ -21,7 +22,7 @@
   },
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/reactioncommerce/api-plugin-payments-stripe-sca/issues"
+    "url": "https://github.com/reactioncommerce/reaction/issues"
   },
   "sideEffects": false,
   "dependencies": {
@@ -64,7 +65,8 @@
     "lint:eslint": "eslint .",
     "test": "jest --passWithNoTests",
     "test:watch": "jest --watch",
-    "test:file": "jest --no-cache --watch --coverage=false"
+    "test:file": "jest --no-cache --watch --coverage=false",
+    "lint:gql": "echo \"Error: no lint specified\" && exit 0"
   },
   "commitlint": {
     "extends": [

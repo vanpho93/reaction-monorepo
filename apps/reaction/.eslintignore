@@ -1,5 +1,0 @@
-jest.config.js
-.reaction/**/*
-client/plugins.js
-server/plugins.js
-imports/plugins/*/*/node_modules

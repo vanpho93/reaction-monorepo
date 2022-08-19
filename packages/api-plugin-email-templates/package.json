@@ -1,18 +1,19 @@
 {
   "name": "@reactioncommerce/api-plugin-email-templates",
   "description": "Email Templates plugin for the Reaction API",
-  "version": "0.0.0-development",
+  "version": "1.1.7",
   "main": "index.js",
   "type": "module",
   "engines": {
     "node": ">=12.14.1"
   },
-  "homepage": "https://github.com/reactioncommerce/api-plugin-email-templates",
-  "url": "https://github.com/reactioncommerce/api-plugin-email-templates",
+  "homepage": "https://github.com/reactioncommerce/reaction",
+  "url": "https://github.com/reactioncommerce/reaction",
   "email": "engineering@reactioncommerce.com",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reactioncommerce/api-plugin-email-templates.git"
+    "url": "https://github.com/reactioncommerce/reaction.git",
+    "directory": "packages/api-plugin-email-templates"
   },
   "author": {
     "name": "Reaction Commerce",
@@ -21,7 +22,7 @@
   },
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/reactioncommerce/api-plugin-email-templates/issues"
+    "url": "https://github.com/reactioncommerce/reaction/issues"
   },
   "sideEffects": false,
   "dependencies": {
@@ -52,7 +53,9 @@
   },
   "scripts": {
     "lint": "npm run lint:eslint",
-    "lint:eslint": "eslint ."
+    "lint:eslint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "lint:gql": "echo \"Error: no lint specified\" && exit 0"
   },
   "commitlint": {
     "extends": [

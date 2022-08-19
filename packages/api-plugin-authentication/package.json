@@ -7,12 +7,13 @@
   "engines": {
     "node": ">=12.14.1"
   },
-  "homepage": "https://github.com/reactioncommerce/api-plugin-authentication",
-  "url": "https://github.com/reactioncommerce/api-plugin-authentication",
+  "homepage": "https://github.com/reactioncommerce/reaction",
+  "url": "https://github.com/reactioncommerce/reaction",
   "email": "hello-open-commerce@mailchimp.com",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reactioncommerce/api-plugin-authentication.git"
+    "url": "https://github.com/reactioncommerce/reaction.git",
+    "directory": "packages/api-plugin-authentication"
   },
   "author": {
     "name": "Mailchimp Open Commerce",
@@ -21,7 +22,7 @@
   },
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/reactioncommerce/api-plugin-authentication/issues"
+    "url": "https://github.com/reactioncommerce/reaction/issues"
   },
   "sideEffects": false,
   "dependencies": {
@@ -58,7 +59,9 @@
   },
   "scripts": {
     "lint": "npm run lint:eslint",
-    "lint:eslint": "eslint ."
+    "lint:eslint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "lint:gql": "echo \"Error: no lint specified\" && exit 0"
   },
   "eslintConfig": {
     "extends": "@reactioncommerce",

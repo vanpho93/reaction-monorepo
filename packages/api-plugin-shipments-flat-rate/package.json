@@ -1,18 +1,19 @@
 {
   "name": "@reactioncommerce/api-plugin-shipments-flat-rate",
   "description": "Flat Rate Shipments plugin for the Reaction API",
-  "version": "0.0.0-development",
+  "version": "1.0.9",
   "main": "index.js",
   "type": "module",
   "engines": {
     "node": ">=12.14.1"
   },
-  "homepage": "https://github.com/reactioncommerce/api-plugin-shipments-flat-rate",
-  "url": "https://github.com/reactioncommerce/api-plugin-shipments-flat-rate",
+  "homepage": "https://github.com/reactioncommerce/reaction",
+  "url": "https://github.com/reactioncommerce/reaction",
   "email": "engineering@reactioncommerce.com",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reactioncommerce/api-plugin-shipments-flat-rate.git"
+    "url": "https://github.com/reactioncommerce/reaction.git",
+    "directory": "packages/api-plugin-shipments-flat-rate"
   },
   "author": {
     "name": "Reaction Commerce",
@@ -21,7 +22,7 @@
   },
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/reactioncommerce/api-plugin-shipments-flat-rate/issues"
+    "url": "https://github.com/reactioncommerce/reaction/issues"
   },
   "sideEffects": false,
   "dependencies": {
@@ -61,7 +62,8 @@
     "lint:eslint": "eslint .",
     "test": "jest",
     "test:watch": "jest --watch",
-    "test:file": "jest --no-cache --watch --coverage=false"
+    "test:file": "jest --no-cache --watch --coverage=false",
+    "lint:gql": "echo \"Error: no lint specified\" && exit 0"
   },
   "commitlint": {
     "extends": [
