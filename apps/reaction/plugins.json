@@ -19,7 +19,7 @@
   "tags": "@reactioncommerce/api-plugin-tags",
   "pricingSimple": "@reactioncommerce/api-plugin-pricing-simple",
   "inventory": "@reactioncommerce/api-plugin-inventory",
-  "inventorySimple": "@reactioncommerce/api-plugin-inventory-simple",
+  "inventorySimple": "@brian-demo-050822/api-plugin-inventory-simple",
   "carts": "@reactioncommerce/api-plugin-carts",
   "orders": "@reactioncommerce/api-plugin-orders",
   "payments": "@reactioncommerce/api-plugin-payments",
