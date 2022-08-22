@@ -210,5 +210,6 @@
       "@commitlint/config-conventional"
     ]
   },
-  "snyk": true
+  "snyk": true,
+  "private": true
 }
