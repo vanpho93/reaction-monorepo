@@ -1,5 +1,11 @@
 # @brian-demo-050822/api-plugin-pricing-simple
 
+## 1.1.0
+
+### Minor Changes
+
+- [#8](https://github.com/vanpho93/reaction-monorepo/pull/8) [`da9bc3db3`](https://github.com/vanpho93/reaction-monorepo/commit/da9bc3db354e5a2f6c584330413362b4ec6ab9ab) Thanks [@vanpho93](https://github.com/vanpho93)! - feat: update simple price v4
+
 ## 1.0.9
 
 ### Patch Changes
