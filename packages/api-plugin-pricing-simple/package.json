@@ -1,7 +1,7 @@
 {
   "name": "@brian-demo-050822/api-plugin-pricing-simple",
   "description": "Simple Pricing plugin for the Reaction API",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "main": "index.js",
   "type": "module",
   "engines": {
