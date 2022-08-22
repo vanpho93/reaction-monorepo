@@ -1,5 +1,11 @@
 # @brian-demo-050822/api-plugin-inventory-simple
 
+## 1.2.1
+
+### Patch Changes
+
+- [#9](https://github.com/vanpho93/reaction-monorepo/pull/9) [`5edc438ab`](https://github.com/vanpho93/reaction-monorepo/commit/5edc438abd862c63fe8527b36e0464021f7f44c3) Thanks [@vanpho93](https://github.com/vanpho93)! - feat: update inventory v4
+
 ## 1.2.0
 
 ### Minor Changes
