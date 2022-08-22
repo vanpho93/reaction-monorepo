@@ -46,6 +46,6 @@ export default async function register(app) {
     mutations,
     policies,
     queries,
-    additionalFields: { test: 1 }
+    additionalFields: { test: 2 }
   });
 }
