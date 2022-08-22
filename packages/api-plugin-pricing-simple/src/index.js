@@ -46,6 +46,6 @@ export default async function register(app) {
     simpleSchemas: {
       PriceRange
     },
-    additionalFields: { test: 2 }
+    additionalFields: { test: 3 }
   });
 }
