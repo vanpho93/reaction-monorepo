@@ -27,7 +27,7 @@ const externalNodeModules = [
   "@reactioncommerce/api-plugin-payments-example",
   "@reactioncommerce/api-plugin-payments-stripe-sca",
   "@reactioncommerce/api-plugin-payments",
-  "@reactioncommerce/api-plugin-pricing-simple",
+  "@brian-demo-050822/api-plugin-pricing-simple",
   "@reactioncommerce/api-plugin-products",
   "@reactioncommerce/api-plugin-settings",
   "@reactioncommerce/api-plugin-shipments-flat-rate",

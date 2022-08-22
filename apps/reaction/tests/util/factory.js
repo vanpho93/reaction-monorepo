@@ -65,7 +65,7 @@ import {
 
 import {
   extendSimplePricingSchemas
-} from "@reactioncommerce/api-plugin-pricing-simple/src/simpleSchemas.js";
+} from "@brian-demo-050822/api-plugin-pricing-simple/src/simpleSchemas.js";
 
 import {
   Product,

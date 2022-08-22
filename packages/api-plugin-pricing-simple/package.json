@@ -1,5 +1,5 @@
 {
-  "name": "@reactioncommerce/api-plugin-pricing-simple",
+  "name": "@brian-demo-050822/api-plugin-pricing-simple",
   "description": "Simple Pricing plugin for the Reaction API",
   "version": "1.0.7",
   "main": "index.js",
