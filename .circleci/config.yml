@@ -60,7 +60,6 @@ jobs:
       - run:
           name: Lint JavaScript
           command: |
-            npm run build:packages
             npm run lint
 
   graphql-lint:
@@ -85,7 +84,7 @@ jobs:
             - reaction-v6-node-modules-{{ .Branch }}
       - run:
           name: Test Unit
-          command: | 
+          command: |
             npm run build:packages
             npm run test
 
